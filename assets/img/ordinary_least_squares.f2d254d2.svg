@@ -1,0 +1,91 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" class="mjx-svg-math" width="30.96ex" height="3.843ex" style="font-size:14px;vertical-align: -1.338ex;" viewBox="0 -1078.4 13329.9 1654.5" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">
+\epsilon=\sum (y-y_i)^2最小\implies 真值y
+</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJMATHI-3F5" d="M227 -11Q149 -11 95 41T40 174Q40 262 87 322Q121 367 173 396T287 430Q289 431 329 431H367Q382 426 382 411Q382 385 341 385H325H312Q191 385 154 277L150 265H327Q340 256 340 246Q340 228 320 219H138V217Q128 187 128 143Q128 77 160 52T231 26Q258 26 284 36T326 57T343 68Q350 68 354 58T358 39Q358 36 357 35Q354 31 337 21T289 0T227 -11Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path>
+<path stroke-width="1" id="E1-MJSZ2-2211" d="M60 948Q63 950 665 950H1267L1325 815Q1384 677 1388 669H1348L1341 683Q1320 724 1285 761Q1235 809 1174 838T1033 881T882 898T699 902H574H543H251L259 891Q722 258 724 252Q725 250 724 246Q721 243 460 -56L196 -356Q196 -357 407 -357Q459 -357 548 -357T676 -358Q812 -358 896 -353T1063 -332T1204 -283T1307 -196Q1328 -170 1348 -124H1388Q1388 -125 1381 -145T1356 -210T1325 -294L1267 -449L666 -450Q64 -450 61 -448Q55 -446 55 -439Q55 -437 57 -433L590 177Q590 178 557 222T452 366T322 544L56 909L55 924Q55 945 60 948Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-28" d="M94 250Q94 319 104 381T127 488T164 576T202 643T244 695T277 729T302 750H315H319Q333 750 333 741Q333 738 316 720T275 667T226 581T184 443T167 250T184 58T225 -81T274 -167T316 -220T333 -241Q333 -250 318 -250H315H302L274 -226Q180 -141 137 -14T94 250Z"></path>
+<path stroke-width="1" id="E1-MJMATHI-79" d="M21 287Q21 301 36 335T84 406T158 442Q199 442 224 419T250 355Q248 336 247 334Q247 331 231 288T198 191T182 105Q182 62 196 45T238 27Q261 27 281 38T312 61T339 94Q339 95 344 114T358 173T377 247Q415 397 419 404Q432 431 462 431Q475 431 483 424T494 412T496 403Q496 390 447 193T391 -23Q363 -106 294 -155T156 -205Q111 -205 77 -183T43 -117Q43 -95 50 -80T69 -58T89 -48T106 -45Q150 -45 150 -87Q150 -107 138 -122T115 -142T102 -147L99 -148Q101 -153 118 -160T152 -167H160Q177 -167 186 -165Q219 -156 247 -127T290 -65T313 -9T321 21L315 17Q309 13 296 6T270 -6Q250 -11 231 -11Q185 -11 150 11T104 82Q103 89 103 113Q103 170 138 262T173 379Q173 380 173 381Q173 390 173 393T169 400T158 404H154Q131 404 112 385T82 344T65 302T57 280Q55 278 41 278H27Q21 284 21 287Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-2212" d="M84 237T84 250T98 270H679Q694 262 694 250T679 230H98Q84 237 84 250Z"></path>
+<path stroke-width="1" id="E1-MJMATHI-69" d="M184 600Q184 624 203 642T247 661Q265 661 277 649T290 619Q290 596 270 577T226 557Q211 557 198 567T184 600ZM21 287Q21 295 30 318T54 369T98 420T158 442Q197 442 223 419T250 357Q250 340 236 301T196 196T154 83Q149 61 149 51Q149 26 166 26Q175 26 185 29T208 43T235 78T260 137Q263 149 265 151T282 153Q302 153 302 143Q302 135 293 112T268 61T223 11T161 -11Q129 -11 102 10T74 74Q74 91 79 106T122 220Q160 321 166 341T173 380Q173 404 156 404H154Q124 404 99 371T61 287Q60 286 59 284T58 281T56 279T53 278T49 278T41 278H27Q21 284 21 287Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-29" d="M60 749L64 750Q69 750 74 750H86L114 726Q208 641 251 514T294 250Q294 182 284 119T261 12T224 -76T186 -143T145 -194T113 -227T90 -246Q87 -249 86 -250H74Q66 -250 63 -250T58 -247T55 -238Q56 -237 66 -225Q221 -64 221 250T66 725Q56 737 55 738Q55 746 60 749Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-32" d="M109 429Q82 429 66 447T50 491Q50 562 103 614T235 666Q326 666 387 610T449 465Q449 422 429 383T381 315T301 241Q265 210 201 149L142 93L218 92Q375 92 385 97Q392 99 409 186V189H449V186Q448 183 436 95T421 3V0H50V19V31Q50 38 56 46T86 81Q115 113 136 137Q145 147 170 174T204 211T233 244T261 278T284 308T305 340T320 369T333 401T340 431T343 464Q343 527 309 573T212 619Q179 619 154 602T119 569T109 550Q109 549 114 549Q132 549 151 535T170 489Q170 464 154 447T109 429Z"></path>
+<path stroke-width="1" id="E1-MJMAIN-27F9" d="M1218 514Q1218 525 1234 525Q1239 525 1242 525T1247 525T1251 524T1253 523T1255 520T1257 517T1260 512Q1297 438 1358 381T1469 300T1565 263Q1582 258 1582 250T1573 239T1536 228T1478 204Q1334 134 1260 -12Q1256 -21 1253 -22T1238 -24Q1218 -24 1218 -17Q1218 -13 1223 0Q1258 69 1309 123L1319 133H70Q56 140 56 153Q56 168 72 173H1363L1373 181Q1412 211 1490 250Q1489 251 1472 259T1427 283T1373 319L1363 327H710L707 328L390 327H72Q56 332 56 347Q56 360 70 367H1319L1309 377Q1276 412 1247 458T1218 514Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+<g class="mjx-svg-mrow">
+<g class="mjx-svg-mi">
+ <use xlink:href="#E1-MJMATHI-3F5"></use>
+</g>
+<g class="mjx-svg-mo" transform="translate(684,0)">
+ <use xlink:href="#E1-MJMAIN-3D"></use>
+</g>
+<g class="mjx-svg-mo" transform="translate(1740,0)">
+ <use xlink:href="#E1-MJSZ2-2211"></use>
+</g>
+<g class="mjx-svg-mo" transform="translate(3185,0)">
+ <use xlink:href="#E1-MJMAIN-28"></use>
+</g>
+<g class="mjx-svg-mi" transform="translate(3574,0)">
+ <use xlink:href="#E1-MJMATHI-79"></use>
+</g>
+<g class="mjx-svg-mo" transform="translate(4294,0)">
+ <use xlink:href="#E1-MJMAIN-2212"></use>
+</g>
+<g class="mjx-svg-msubsup" transform="translate(5295,0)">
+<g class="mjx-svg-mi">
+ <use xlink:href="#E1-MJMATHI-79"></use>
+</g>
+<g class="mjx-svg-mi" transform="translate(490,-150)">
+ <use transform="scale(0.707)" xlink:href="#E1-MJMATHI-69"></use>
+</g>
+</g>
+<g class="mjx-svg-msubsup" transform="translate(6129,0)">
+<g class="mjx-svg-mo">
+ <use xlink:href="#E1-MJMAIN-29"></use>
+</g>
+<g class="mjx-svg-mn" transform="translate(389,412)">
+ <use transform="scale(0.707)" xlink:href="#E1-MJMAIN-32"></use>
+</g>
+</g>
+<g class="mjx-svg-texatom" transform="translate(6973,0)">
+<g class="mjx-svg-mrow">
+<g class="mjx-svg-mo">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">最</text>
+</g>
+</g>
+</g>
+<g class="mjx-svg-texatom" transform="translate(7750,0)">
+<g class="mjx-svg-mrow">
+<g class="mjx-svg-mo">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">小</text>
+</g>
+</g>
+</g>
+<g class="mjx-svg-mspace"></g>
+<g class="mjx-svg-mo" transform="translate(9083,0)">
+ <use xlink:href="#E1-MJMAIN-27F9"></use>
+</g>
+<g class="mjx-svg-mspace"></g>
+<g class="mjx-svg-texatom" transform="translate(11277,0)">
+<g class="mjx-svg-mrow">
+<g class="mjx-svg-mo">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">真</text>
+</g>
+</g>
+</g>
+<g class="mjx-svg-texatom" transform="translate(12054,0)">
+<g class="mjx-svg-mrow">
+<g class="mjx-svg-mo">
+<text font-family="monospace" stroke="none" transform="scale(59.79916666666667) matrix(1 0 0 -1 0 0)">值</text>
+</g>
+</g>
+</g>
+<g class="mjx-svg-mi" transform="translate(12832,0)">
+ <use xlink:href="#E1-MJMATHI-79"></use>
+</g>
+</g>
+</g>
+</svg>
